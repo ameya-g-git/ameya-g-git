@@ -1,4 +1,7 @@
-<h1 align="center">Hi, I'm Ameya Gupta</h1>
+<h1 align="center">  
+  <img src="pencil.svg" target="_blank" alt="pencil icon" width="40"></img>
+    Hi, I'm Ameya Gupta
+</h1>
 <h3 align="center">A developer/designer bridging bold, unique design with software solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameya-g-git&label=Profile%20views&color=ffb800&style=flat" alt="ameya-g-git" /> </p>
