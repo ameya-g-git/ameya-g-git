@@ -4,8 +4,6 @@
 </h1>
 <h3 align="center">a developer/designer bridging bold, unique design with software solutions</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ameya-g-git&label=Profile%20views&color=ffb800&style=flat" alt="ameya-g-git" /> </p>
-
 - 🌱 i’m currently learning **React, SQL, MongoDB, and AWS**
 
 - 👯 i’m looking to collaborate on **your projects if you're looking for a passionate designer and front-end developer!**
