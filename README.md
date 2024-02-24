@@ -1,20 +1,20 @@
 <h1 align="center">  
   <img src="pencil.svg" target="_blank" alt="pencil icon" width="40"></img>
-    Hi, I'm Ameya Gupta
+    hey! i'm ameya gupta!
 </h1>
-<h3 align="center">A developer/designer bridging bold, unique design with software solutions</h3>
+<h3 align="center">a developer/designer bridging bold, unique design with software solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameya-g-git&label=Profile%20views&color=ffb800&style=flat" alt="ameya-g-git" /> </p>
 
-- 🌱 I’m currently learning **React, SQL, MongoDB, and AWS**
+- 🌱 i’m currently learning **React, SQL, MongoDB, and AWS**
 
-- 👯 I’m looking to collaborate on **your projects if you're looking for a passionate designer and front-end developer!**
+- 👯 i’m looking to collaborate on **your projects if you're looking for a passionate designer and front-end developer!**
 
-- 💬 Ask me about **image processing, design trends, and 3D software!**
+- 💬 ask me about **image processing, design trends, and 3D software!**
 
-- 📫 Contact me at **ameya.guptag@gmail.com**, or connect with me at my [Linkedin!](https://linkedin.com/in/ameya-g)
+- 📫 contact me at **ameya.guptag@gmail.com**, or connect with me at my [Linkedin!](https://linkedin.com/in/ameya-g)
 
-- 📄 Find my resume [here!](https://drive.google.com/file/d/1yrbq-gXkFASSJisPLyZqyaEsssYVxqFt/view?usp=sharing)
+- 📄 find my resume [here!](https://drive.google.com/file/d/1yrbq-gXkFASSJisPLyZqyaEsssYVxqFt/view?usp=sharing)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
