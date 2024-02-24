@@ -6,7 +6,7 @@
 
 - 🌱 i’m currently learning **React, SQL, MongoDB, and AWS**
 
-- 👯 i’m looking to collaborate on **your projects if you're looking for a passionate designer and front-end developer!**
+- 👯 i’m looking to collaborate on **your projects if you're looking for a passionate UI designer and front-end developer!**
 
 - 💬 ask me about **image processing, design trends, and 3D software!**
 
@@ -14,6 +14,7 @@
 
 - 📄 find my resume [here!](https://drive.google.com/file/d/1yrbq-gXkFASSJisPLyZqyaEsssYVxqFt/view?usp=sharing)
 
+<hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a> 
@@ -36,5 +37,4 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a> 
   <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"><img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/></a>
 </p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ameya-g-git&show_icons=true&theme=dark&locale=en&layout=compact" alt="ameya-g-git" /></p>
