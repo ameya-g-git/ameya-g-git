@@ -1,5 +1,5 @@
 <h1 align="center">  
-  <img src="pencil.svg" target="_blank" alt="pencil icon" width="40"></img>
+  <img src="ameya-icon-white.svg" target="_blank" alt="pencil icon" width="40"></img>
   hey! i'm ameya gupta!
   <h3 align="center">a developer/designer bridging bold, unique design with software solutions</h3>
 </h1>
