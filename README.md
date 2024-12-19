@@ -6,9 +6,9 @@
 
 - 🌱 i’m currently learning **React, SQL, MongoDB, and AWS**
 
-- 👯 i’m looking to collaborate on **your projects if you're looking for a passionate UI designer and front-end developer!**
+- 👥 i’m looking to collaborate on **your projects if you're looking for a passionate UI designer and front-end developer!**
 
-- 💬 ask me about **image processing, design trends, and 3D software!**
+- 💬 ask me about **graphics technology, ethics in tech, and image processing!**
 
 - 📫 contact me at **ameya.guptag@gmail.com**, or connect with me at my [Linkedin!](https://linkedin.com/in/ameya-g)
 
@@ -39,6 +39,11 @@
 ![Flask](https://img.shields.io/badge/flask-%236AC0CD.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%234D77CF.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![matplotlib](https://img.shields.io/badge/matplotlib-%23FF6800.svg?style=for-the-badge&logo=python&logoColor=white)
+
+### Designer Tools
+![Figma](https://img.shields.io/badge/figma-%23151515.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23E87D0D.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Aseprite](https://img.shields.io/badge/aseprite-%23FFFFFF.svg?style=for-the-badge&logo=aseprite&logoColor=black)
 #
 <br>
 
