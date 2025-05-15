@@ -12,7 +12,7 @@
 
 - 📫 contact me at **ameya.guptag@gmail.com**, or connect with me at my [Linkedin!](https://linkedin.com/in/ameya-g)
 
-- 📄 find my resume [here!](https://drive.google.com/file/d/1yrbq-gXkFASSJisPLyZqyaEsssYVxqFt/view?usp=sharing)
+- 📄 find my resume [here!](https://ameyagupta.netlify.app/assets/AG_resume.pdf)
 
 ---
 
